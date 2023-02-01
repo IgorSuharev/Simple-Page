@@ -1,2 +1,2 @@
-# Simple-Page
-qwerty
+# Resume
+This is my resume.
